@@ -1,12 +1,5 @@
 //select all data correctly to use the calculator properly and get results as well as save in StudentInfo file//
 
-/*project team:
-	
-	Name:Mahmodul Hasan Jobayer
-	ID: 2021910642
-	Section: 10
-*/
-
 package application;
 	
 import java.io.File;
